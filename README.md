@@ -10,11 +10,13 @@ If you use the data or code from this repository in your research or projects, p
 
 We appreciate your interest in our work and thank you for properly citing our paper.
 
+# Paper
 
+The SSRN version of the [paper](paper/Lin-Shen-Wang-Yu-2024-JAR-Global-Evolution-of-Environmental-and-Social-Disclosure-in-Annual-Reports.pdf) and  online [appendix](paper/Online-Appendix-Lin-Shen-Wang-Yu-2024-JAR-Global-Evolution-of-Environmental-and-Social-Disclosure-in-Annual-Reports.pdf) can be found in the paper folder. 
 
 # E&S Dictionary
 
-The E&S dictionary in the [paper appendix](paper/Online Appendix Lin Shen Wang Yu 2024 JAR Global Evolution of Environmental and Social Disclosure in Annual Reports.pdf) can be found in [data/ES dictionary.xlsx](data/ES dictionary.xlsx).
+The E&S dictionary in the [paper appendix](paper/Online-Appendix-Lin-Shen-Wang-Yu-2024-JAR-Global-Evolution-of-Environmental-and-Social-Disclosure-in-Annual-Reports.pdf) can be found in [data/ES dictionary.xlsx](data/ES-dictionary.xlsx).
 
 ## Licenses
 

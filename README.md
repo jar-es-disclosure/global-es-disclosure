@@ -10,6 +10,12 @@ If you use the data or code from this repository in your research or projects, p
 
 We appreciate your interest in our work and thank you for properly citing our paper.
 
+
+
+# E&S Dictionary
+
+The E&S dictionary in the [paper appendix](paper/Online Appendix Lin Shen Wang Yu 2024 JAR Global Evolution of Environmental and Social Disclosure in Annual Reports.pdf) can be found in [/data/ES dictionary.xlsx](ES dictionary.xlsx).
+
 ## Licenses
 
 This work is licensed under the Creative Commons Attribution 4.0 ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)). 

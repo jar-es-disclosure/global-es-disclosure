@@ -1,6 +1,6 @@
 ### Yan Lin, Rui Shen, Jasmine Wang, and Y. Julia Yu, "Global Evolution of Environmental and Social Disclosure in Annual Reports", forthcoming at the Journal of Accounting Research
 
-This repository contains the data and scripts accompanying the paper titled "git Global Evolution of Environmental and Social Disclosure in Annual Reports" by Yan Lin, Rui Shen, Jasmine Wang, and Y. Julia Yu.
+This repository contains the data and scripts associated with the article "Global Evolution of Environmental and Social Disclosure in Annual Reports" by Yan Lin, Rui Shen, Jasmine Wang, and Y. Julia Yu, published in the Journal of Accounting Research. 
 
 # Citation
 

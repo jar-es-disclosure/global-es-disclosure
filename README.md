@@ -14,7 +14,7 @@ We appreciate your interest in our work and thank you for properly citing our pa
 
 # E&S Dictionary
 
-The E&S dictionary in the [paper appendix](paper/Online Appendix Lin Shen Wang Yu 2024 JAR Global Evolution of Environmental and Social Disclosure in Annual Reports.pdf) can be found in [/data/ES dictionary.xlsx](ES dictionary.xlsx).
+The E&S dictionary in the [paper appendix](paper/Online Appendix Lin Shen Wang Yu 2024 JAR Global Evolution of Environmental and Social Disclosure in Annual Reports.pdf) can be found in [data/ES dictionary.xlsx](data/ES dictionary.xlsx).
 
 ## Licenses
 

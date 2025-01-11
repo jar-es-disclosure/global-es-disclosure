@@ -6,9 +6,7 @@ This repository contains the data and scripts associated with the article "Globa
 
 If you use the data or code from this repository in your research or projects, please cite our paper properly. Here is a suggested citation: 
 
-```
-Lin, Yan, Shen, Rui, Wang, Jasmine, & Yu, Yingri Julia (2024). Global Evolution of Environmental and Social Disclosure in Annual Reports. Journal of Accounting Research, 62(5), 1941-1988.
-```
+```Lin, Yan, Shen, Rui, Wang, Jasmine, & Yu, Yingri Julia (2024). Global Evolution of Environmental and Social Disclosure in Annual Reports. Journal of Accounting Research, 62(5), 1941-1988.```
 
 We appreciate your interest in our work and thank you for properly citing our paper.
 
